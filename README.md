@@ -1,4 +1,6 @@
-### Hello there, I'm Shivam ✌
+## Hey there, great to see you ✌
+
+### I'm Shivam a self taught UI designer & developer.
 
 <!--
 **shivampednekar/shivampednekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
