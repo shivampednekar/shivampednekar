@@ -1,6 +1,6 @@
 ## Hey there, great to see you ✌
 
-### I'm Shivam a self taught UI designer & developer.
+### My name is Shivam — and I'm a 20-year-old self-taught developer & ui designer based in India. 
 
 <!--
 **shivampednekar/shivampednekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
